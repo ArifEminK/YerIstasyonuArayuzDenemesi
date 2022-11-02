@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\bin\Debug\Yerİstasyonu.exe.config
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\bin\Debug\Yerİstasyonu.exe
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\bin\Debug\Yerİstasyonu.pdb
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\obj\Debug\Yerİstasyonu.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\obj\Debug\Yerİstasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\obj\Debug\Yerİstasyonu.Form1.resources
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\obj\Debug\Yerİstasyonu.Properties.Resources.resources
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\obj\Debug\Yerİstasyonu.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\obj\Debug\Yerİstasyonu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\obj\Debug\Yerİstasyonu.exe
+C:\Users\admin\Desktop\Ders Belgeleri\Yerİstasyonu\obj\Debug\Yerİstasyonu.pdb
